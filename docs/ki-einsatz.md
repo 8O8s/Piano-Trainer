@@ -9,3 +9,5 @@ Grundlage für Kapitel 6 «KI-Deklaration» der README.
 | 25.11.2026 | GitHub Copilot (Agent-Modus) | `/init` → Instruktionsdatei erzeugt; danach Verschieben nach AGENTS.md inkl. Link-Anpassung | Erster Versuch (`git mv`) schlug fehl, da Datei untracked; Agent korrigierte selbst mit `mv` und prüfte die Links. Abschnitte Product/Stack/Rules von Hand ergänzt. |
 
 | 25.11.2026 | Claude (claude.ai) | Abschnitte Product / Planned stack / Rules für AGENTS.md vorgeschlagen | Von mir durchgelesen, angepasst (…) und übernommen |
+| 27.11.2026 | Claude | Issue-Texte #1–#8 (User Stories, Akzeptanzkriterien, Hinweise) für GitHub vorgeschlagen (`github-issues-piano-trainer.md`) | Von mir durchgelesen, mit Mockup und Projektzielen abgeglichen und als GitHub-Issues übernommen |
+| 27.11.2026 | Claude Code (Opus 5.5, VS Code) | Issue #1 umgesetzt: Navbar-Komponente, Layout und Platzhalterseiten `/`, `/katalog`, `/import` nach Figma-Mockup | Zuerst Plan angefordert; Plan korrigiert: Optimierung für iPads/Tablets ergänzt (Touch-Ziele ≥ 44 px, Safe-Area, kein Hover-Zwang). Darstellung im Browser selbst mit Mockup verglichen: keine Fehler gefunden |
