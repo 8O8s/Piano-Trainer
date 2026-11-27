@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48" fill="none">
+	<!-- Piano keys logo: four white keys, three black keys -->
+	<rect x="2" y="2" width="60" height="44" rx="6" fill="#fff" stroke="#111" stroke-width="3" />
+	<path d="M17 30v16M32 30v16M47 30v16" stroke="#111" stroke-width="2.5" />
+	<rect x="11" y="2" width="11" height="28" rx="1.5" fill="#111" />
+	<rect x="26.5" y="2" width="11" height="28" rx="1.5" fill="#111" />
+	<rect x="42" y="2" width="11" height="28" rx="1.5" fill="#111" />
+</svg>
