@@ -46,3 +46,4 @@ Piano-Trainer: web app for self-taught piano learners. Users import MIDI files o
 - Only use MIDI files with a clear licence (public domain / CC); no copyrighted songs in the repo.
 - Work in small steps; ask if something is unclear.
 - Commits: Conventional Commits with issue reference, e.g. `feat: MIDI import (closes #3)`.
+- To implement a GitHub issue, use the skill `issue-umsetzen` (`.agents/skills/issue-umsetzen/SKILL.md`).
