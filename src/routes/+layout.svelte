@@ -21,7 +21,7 @@
 		--color-surface: #e4e4e7;
 		--color-surface-strong: #d0d0d4;
 		--color-text: #1a1a1a;
-		--color-accent: #0f9d58;
+		--color-accent: #0b7d45;
 		--content-width: 1100px;
 		font-family: Georgia, 'Times New Roman', Times, serif;
 		color: var(--color-text);
