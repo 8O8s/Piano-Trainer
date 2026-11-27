@@ -62,7 +62,7 @@ Neue Pakete, Abweichungen vom Mockup, offene Fragen – oder «Keine».
 ```
 
 ## 7. Entwurf für das KI-Log
-Einen Zeilenentwurf für `docs/ki-einsatz.md` **im Chat zeigen, nicht selbst eintragen**:
+Einen Zeilenentwurf in `docs/ki-einsatz.md` eintragen und im PR mitcommitten:
 
 ```markdown
 | <Datum> | <Tool / Modell> | Issue #<nr> umgesetzt (Skill issue-umsetzen): <1 Satz> | Agent: <was gut lief / welche Fehler auftraten und wie korrigiert>. Eigene Prüfung: _[vom Menschen auszufüllen]_ |
